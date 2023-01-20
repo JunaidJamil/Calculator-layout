@@ -1,0 +1,67 @@
+h1{ font-size: xx-large;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 20px;
+    background:linear-gradient(to bottom,rgb(249, 184, 184),rgb(161, 241, 161),rgb(154, 154, 231));
+padding: 20px;
+}
+input{
+    
+    width: 280px;
+    height: 50px;
+   margin: 2px 2px;  
+    border-radius: 1px;
+    margin-right: 2px;
+    font-size: x-large; 
+    padding: 2px;
+    margin: 10px 0px ;
+}
+.on{
+    border: 8px solid black;
+    width: 300px;
+    height: 400px;
+
+    background:linear-gradient(to left, rgb(0, 0, 0),
+    rgb(0, 0, 0), rgb(0, 0, 0),rgb(0, 0, 0));
+    border-radius: 20px;
+    }
+.button{
+    
+    width: 66px;
+    height: 60px;
+    margin: 2px 2px;
+    font-weight: bold;
+    cursor: pointer;
+    font-size:x-large ;
+   
+}
+
+ .in{
+    position: relative;
+   left: 110px;
+   bottom: 60px;
+   height: 119px;
+   width:65.5px;
+   font-weight: bold;
+   font-size: x-large;
+} 
+ .last{
+      position: relative;
+      right: 37px;
+      bottom: 119px;
+   margin: 1px;
+} 
+.lite{
+    position: relative;
+      right: 37px;
+
+}
+button:hover{
+    background-color: rgb(32, 7, 7);
+    color: rgb(255, 255, 255);
+}
+button:active{
+    background-color: rgb(173, 195, 195);
+    
+}
+
